@@ -251,19 +251,6 @@ with st.container():
         <p style='font-size:16px;line-height:1.6;'>
         In short, this project blends machine learning, web development, and real-world simulation into a simple yet impactful demonstration of how AI can assist in underwater hazard detection. We thank our college, our guide, and especially OpenAI for helping us achieve this milestone.
         </p>
-                    
-        <h4 style='color:#0a9396;'>🚀 Future Scope</h4>
-        <p style='font-size:16px;line-height:1.6;'>
-        This project lays the foundation for real-time underwater object detection using AI. In the future, we plan to:
-        <ul>
-        <li>🔁 Integrate real-time sonar signal feeds via sensors</li>
-        <li>📡 Deploy the model on embedded systems or Raspberry Pi</li>
-        <li>📊 Compare multiple models (SVM, Random Forest)</li>
-        <li>🌐 Add user login + personalized prediction dashboard</li>
-        <li>📈 Use prediction history to improve the model over time</li>
-        </ul>
-        </p>
-
 
         <p style='font-style:italic;color:#555;'>~ Team Colorz</p>
 
